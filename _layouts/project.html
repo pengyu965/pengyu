@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _posts = site.posts | sort: 'order'  -%}
+{%- include header.html scrolly_nav=_posts -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Posts List -->
+	{%- for _post in _posts -%}
+	{%- include section.html title=_post.title photo=_post.cover-photo photo-alt=_post.cover-photo-alt auto-header=_post.auto-header content=_post.content -%}
+	{%- endfor -%}
+</div>
