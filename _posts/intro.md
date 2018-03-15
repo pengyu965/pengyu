@@ -1,7 +1,6 @@
 ---
 title: Graduation Thesis
 author: Pengyu
-order: 1
 layout: post
 ---
 
