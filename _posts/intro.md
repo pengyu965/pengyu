@@ -1,7 +1,8 @@
 ---
 title: Graduation Thesis
-icon: fa-book
+author: Pengyu
 order: 1
+layout: post
 ---
 
 Saliency Detection based on GANs
