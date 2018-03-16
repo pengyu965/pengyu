@@ -1,9 +1,7 @@
 ---
 title: Publications
-# subtitle: a list of books I read
-layout: "page"
 icon: fa-book
-order: 3
+order: 6
 ---
 
 1. P. Zhang, <u><b>P. Yan</b></u>, J. Wu. Unsupervised Saliency Detection based on Multi-Scale Architecture and Graphical Model. *ICME* 2018. [<u>(SUBMITTED)</u>](assets/myfile/ICME.pdf)
