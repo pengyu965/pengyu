@@ -1,5 +1,7 @@
 ---
 title: Projects
+cover-photo: assets/images/white.png
+cover-photo-alt: example cover photo
 icon: fa-book
 order: 5
 ---
