@@ -4,10 +4,10 @@ title: Research Projects
 icon: fa-pencil
 order: 2
 ---
-##Graduation Thesis
+## Graduation Thesis
 01 March 2018
 
-####Saliency Detection based on GANs
+#### Saliency Detection based on GANs
 
 <p style="text-align:justify">
 Generate Adversarial Networks (GANs) have a very good potential to handle the end-to-end problems and saliency detection is exactly one of them. Thus this project aims at upgrading my former method by using deep learning way to segment the saliency area from a 3D video sequence. This is also the topic of my graduation thesis, supervised by Prof. Ping Zhang.
@@ -21,7 +21,7 @@ We proposed an unsupervised saliency objects extraction method for 3D video. The
 </p>
 
 ## Infrared Weak Target Detection
-#####--Founded Engineering Project 
+##### --Founded Engineering Project 
 
 10 September 2016 
 
