@@ -40,7 +40,7 @@ email: py.yan965@gmail.com
 avatar: assets/images/photo.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/pengyu" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pengyu965.github.io" # the base hostname & protocol for your site
 
 # Social settings
@@ -54,7 +54,7 @@ slack_url:
 twitter_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-115899430-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
