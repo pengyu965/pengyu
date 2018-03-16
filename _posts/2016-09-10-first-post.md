@@ -1,6 +1,6 @@
 ---
 title: Infrared Weak Target Detection based on CNN
-author: Chris
+author: Supervised by Prof. Zhang
 layout: post
 ---
 Funded Engineering Project

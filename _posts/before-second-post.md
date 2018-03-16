@@ -1,6 +1,6 @@
 ---
 title: Saliency Detection based on Fusion and Segmentation
-author: Chris
+author: Supervised by Prof. Zhang
 layout: post
 ---
 

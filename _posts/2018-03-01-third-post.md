@@ -1,6 +1,6 @@
 ---
 title: Graduation Thesis
-author: Chris
+author: Supervised by Prof. Zhang
 layout: post
 icon: fa-lightbulb-o
 ---
