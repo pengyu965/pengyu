@@ -1,9 +1,11 @@
 ---
-layout: default
 title: Research Projects
+layout: "page"
 icon: fa-pencil
 order: 2
 ---
+
+
 ## Graduation Thesis
 01 March 2018
 
