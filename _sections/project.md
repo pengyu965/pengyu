@@ -26,5 +26,3 @@ We proposed an unsupervised saliency objects extraction method for 3D video. The
 <span class="image right"><img src="{{ 'assets/myimg/pic2.png' | relative_url }}" alt="" /></span>
 Since the target is small and infrared, the feature of the target is very weak, which caused the great difficulty to recoginize the object. Thus a Convolutional Neural Networks was designed to utilize the limited feature with a high efficiency.
 </p>
-</justify>
-</ul>
