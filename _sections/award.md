@@ -1,5 +1,7 @@
 ---
 title: Awards
+cover-photo: assets/images/pic01.png
+cover-photo-alt: example cover photo
 icon: fa-th
 order: 4
 ---
