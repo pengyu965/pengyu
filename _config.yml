@@ -40,7 +40,7 @@ email: py.yan965@gmail.com
 avatar: assets/images/photo.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pengyu" # the subpath of your site, e.g. /blog
 url: "https://pengyu965.github.io" # the base hostname & protocol for your site
 
 # Social settings
