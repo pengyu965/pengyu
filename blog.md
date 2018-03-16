@@ -1,6 +1,6 @@
 ---
 title: Research Projects
-layout: "page"
+layout: blog
 icon: fa-pencil
 order: 2
 ---
