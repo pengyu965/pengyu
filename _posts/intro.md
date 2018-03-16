@@ -1,6 +1,6 @@
 ---
 title: Graduation Thesis
-author: Pengyu
+Icon: fa-book
 layout: post
 ---
 
