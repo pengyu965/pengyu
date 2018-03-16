@@ -3,9 +3,10 @@ title: Infrared Weak Target Detection based on CNN
 author: Chris
 layout: post
 ---
-<a href="#" class="image featured"><img src="assets/myimg/pic2.jpg" alt="" /></a>
+Funded Engineering Project
 
+
+<span class="image left"><img src="{{ 'assets/myimg/pic2.jpg' | relative_url }}" alt="" /></span>
 <p style="text-align:justify">
-Founded Engineering Project </br>
 Since the target is small and infrared, the feature of the target is very weak, which caused the great difficulty to recoginize the object. Thus a Convolutional Neural Networks was designed to utilize the limited feature with a high efficiency.
 </p>
