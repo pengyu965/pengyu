@@ -5,7 +5,7 @@ order: 5
 ---
 
 **Email** \\
-[py.yan965@gmail.com](py.yan965@gmail.com) \\
+<a href="mailto:py.yan965@gmail.com">py.yan965@gmail.com</a> \\
 **Skype** \\
 andyyim-ypy@outlook.com\\
 **Phone** \\
